@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #058a9e;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1, .st4 {
+        stroke-width: 27px;
+      }
+
+      .st1 {
+        stroke: #191993;
+      }
+
+      .st5 {
+        display: none;
+        fill: #687a7b;
+      }
+
+      .st2, .st3 {
+        stroke-width: 30px;
+      }
+
+      .st2, .st3, .st4 {
+        stroke: #ee4f9c;
+      }
+
+      .st6 {
+        fill: #ee4f9c;
+      }
+
+      .st3 {
+        stroke-dasharray: 41.7 20.85;
+      }
+    </style>
+  </defs>
+  <rect class="st5" y="0" width="512" height="512"/>
+  <g>
+    <line class="st2" x1="31.91" y1="316.02" x2="51.91" y2="316.02"/>
+    <line class="st3" x1="72.76" y1="316.02" x2="437.66" y2="316.02"/>
+    <line class="st2" x1="448.09" y1="316.02" x2="468.09" y2="316.02"/>
+  </g>
+  <rect class="st1" x="48.43" y="209.02" width="55" height="55" transform="translate(-160.59 312.45) rotate(-90)"/>
+  <rect class="st0" x="162.24" y="124.46" width="55" height="55" transform="translate(37.78 341.7) rotate(-90)"/>
+  <rect class="st0" x="276.06" y="124.46" width="55" height="55" transform="translate(151.6 455.52) rotate(-90)"/>
+  <rect class="st0" x="389.87" y="124.46" width="55" height="55" transform="translate(265.41 569.33) rotate(-90)"/>
+  <g>
+    <line class="st4" x1="276.06" y1="209.02" x2="276.06" y2="246.43"/>
+    <polygon class="st6" points="325.27 239.84 226.85 239.84 276.06 289.02 325.27 239.84"/>
+  </g>
+</svg>
